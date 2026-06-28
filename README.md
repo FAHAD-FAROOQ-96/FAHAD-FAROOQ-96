@@ -10,14 +10,6 @@ Machine Learning • Computer Vision • Robotics • Intelligent Systems
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Building+AI+Projects;Learning+Something+New+Every+Day" />
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FAHAD-FAROOQ-96&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/FAHAD-FAROOQ-96?label=Followers&style=social"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -39,35 +31,13 @@ I enjoy designing projects involving
 
 ---
 
-# 🚀 Current Focus
-
-- 🌱 Building a strong AI Project Portfolio
-- 📚 Learning Advanced Machine Learning & Deep Learning
-- 🤖 Exploring Computer Vision
-- ⚡ Learning MLOps & Deployment
-- 🏆 Preparing for AI/ML Internships
-- 📈 Contributing regularly on GitHub
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 15+ High Quality AI Projects
-- ✅ Land an AI Internship
-- ✅ Master Deep Learning
-- ✅ Learn MLOps
-- ✅ Publish Technical Articles
-- ✅ Grow an impressive GitHub Portfolio
-
----
-
 # 💻 Tech Stack
 
 ## Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,assembly"/>
 
 </p>
 
@@ -90,7 +60,7 @@ I enjoy designing projects involving
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,flask,vscode,figma,arduino"/>
-
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48"/>
 </p>
 
 ---
@@ -112,50 +82,19 @@ I enjoy designing projects involving
 
 # 📌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Chatbot | Conversational AI using LLMs |
-| 👁️ Face Recognition System | Attendance & Face Detection |
-| 🧠 Brain Tumor Detection | Deep Learning CNN Project |
-| 📊 House Price Prediction | Regression ML Model |
-| 🚗 Object Detection | YOLO/OpenCV based detection |
-| ✋ Sign Language Recognition | Computer Vision Project |
-| 📈 Stock Price Prediction | Machine Learning Forecasting |
-| 🤖 AI Research Assistant | Intelligent Information Retrieval |
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🤖 **Autonomous Wheelchair** | AI-powered smart wheelchair featuring autonomous navigation, obstacle detection, and intelligent mobility assistance through computer vision and robotics. | **Python • OpenCV • Arduino • Robotics • Computer Vision** |
+| 🎲 **Ludo Bot** | Intelligent Ludo-playing bot implementing game logic, strategic decision-making, and automated gameplay against human or AI opponents. | **Python • AI Algorithms • OOP • OpenCV • ESP • Robotics • Computer Vision** |
+| 🔍 **Lost & Found Portal** | Full-stack web application that enables users to report, search, and recover lost belongings through a centralized digital platform with secure data management. | **HTML • CSS • Flask • MySQL • SupaBase • Python** |
+| 🏃 **Subway Surfers Clone** | 2D endless runner game featuring collision detection, animations, score tracking, object-oriented design, and responsive gameplay mechanics. | **C++ • SFML • OOP** |
+| 🚗 **Rush Hour Puzzle Solver** | Solver for the classic Rush Hour puzzle utilizing state-space search, logical reasoning, and optimized movement algorithms to reach solutions efficiently. | **Assembly** |
+| 🎯 **Word Shooter Game** | Interactive educational game combining vocabulary challenges with arcade-style shooting mechanics to create an engaging learning experience. | **C++ • SFML • OOP** |
+| 📊 **House Price Prediction** | Machine Learning regression model for predicting real estate prices through data preprocessing, feature engineering, model training, and evaluation. | **Python • Pandas • Scikit-Learn • NumPy • Matplotlib** |
+| 🚗 **Object Detection** | Real-time object detection system using YOLO and OpenCV to accurately identify and localize multiple objects in images and live video streams. | **Python • YOLO • OpenCV • Deep Learning** |
+| 🤟 **Sign Language Recognition** | Computer vision application that recognizes hand gestures and sign language using deep learning models to improve communication accessibility. | **Python • TensorFlow • OpenCV • CNN • Computer Vision** |
 
 *(More projects coming soon...)*
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FAHAD-FAROOQ-96&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHAD-FAROOQ-96&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FAHAD-FAROOQ-96&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FAHAD-FAROOQ-96&theme=tokyo-night"/>
-
-</p>
 
 ---
 
@@ -181,7 +120,7 @@ I enjoy designing projects involving
 
 # 📜 Certifications
 
-- 🏅 Google Machine Learning Crash Course
+- 🏅 Robotics and Hardware Based System Training
 - 🚀 More AI, Machine Learning & Data Science certifications coming soon...
 
 ---
@@ -210,11 +149,11 @@ LLMs & AI Agents        ███████░░░░░░░░░ 45%
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/fahad-farooq-96-">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mfahad.malik59@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
