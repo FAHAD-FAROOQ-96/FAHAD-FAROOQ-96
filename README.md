@@ -113,10 +113,10 @@ I enjoy designing projects involving
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/snake.svg">
 
   <img alt="snake animation"
@@ -124,6 +124,7 @@ I enjoy designing projects involving
 </picture>
 
 </p>
+
 ---
 
 # 📜 Certifications
