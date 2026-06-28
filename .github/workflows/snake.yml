@@ -13,10 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Generate snake properly with full grid control
       - uses: Platane/snk@v3
         with:
           github_user_name: FAHAD-FAROOQ-96
+
+          # 🔥 CRITICAL FIXES:
+          # - bg color fixes white boxes
+          # - pixel_ratio fixes right-side clipping
+          # - full_page ensures full grid renders
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark&padding=10&empty_color=%230d1117
+            dist/snake.svg?palette=github-dark&bg_color=%230d1117&full_page=true&pixel_ratio=2
+            dist/snake-dark.svg?palette=github-dark&bg_color=%230d1117&full_page=true&pixel_ratio=2
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
