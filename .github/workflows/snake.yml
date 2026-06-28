@@ -18,8 +18,12 @@ jobs:
         with:
           github_user_name: FAHAD-FAROOQ-96
           outputs: |
+            color_snake: '#00FFAA'
+            color_dots: '#161B22'
+            color_empty: '#0D1117'
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
