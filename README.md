@@ -112,10 +112,18 @@ I enjoy designing projects involving
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/github-contribution-grid-snake-dark.svg"
-     alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/snake-dark.svg">
 
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/snake.svg">
+
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/FAHAD-FAROOQ-96/FAHAD-FAROOQ-96/output/snake.svg">
+</picture>
+
+</p>
 ---
 
 # 📜 Certifications
