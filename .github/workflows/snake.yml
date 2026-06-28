@@ -13,18 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Generate snake SVGs
+      # Generate snake properly with full grid control
       - uses: Platane/snk@v3
         with:
           github_user_name: FAHAD-FAROOQ-96
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      # Deploy WITHOUT crazy-max (fixes Node 20 warning)
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+            dist/snake-dark.svg?palette=github-dark&padding=10&empty_color=%230d1117
