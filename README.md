@@ -98,16 +98,6 @@ I enjoy designing projects involving
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<!-- img src="https://github-profile-trophy.vercel.app/?username=FAHAD-FAROOQ-96&theme=onedark&row=1&column=7"/> -->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FAHAD-FAROOQ-96&theme=onedark&row=1&column=7"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
